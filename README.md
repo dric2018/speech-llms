@@ -1,2 +1,2 @@
-# qwen-llm-sp
-A repository for trials and errors with Qwen Speech Processing tools
+# speech-llms
+A repository for trials and errors with LLM-based Speech Processing tools
